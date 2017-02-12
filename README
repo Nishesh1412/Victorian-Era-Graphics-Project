@@ -1,0 +1,55 @@
+Nishesh Shukla
+Victorian era - graphics project
+12/06/16
+------------------------------------------
+ABOUT
+------------------------------------------
+**Note: This is a layout of a town with a victorian age theme. Stone roads, stone houses, etc. 
+
+------------------------------------------
+Instructions
+------------------------------------------
+
+
+0. Type in 'make' and then './FinalProject' to compile and run.
+1. Use (w/a/s/d) to move around the town and the arrows to change view angles. This allows you to see the fog and as you get closer to an object it becomes clearer and less foggy.
+2. Press 'k' to arrive in the perspective view. Press 'h' (zoom in, 'g' to zoom out) and keep pressing it till you see the city. At first you will see barely anything due to the fog, as you zoom in you will see more clearly. (The effect of the fog)
+3. Next use the arrow keys while still in the perspective view to have an overall view of the town. Disable the fog for a better view of the town by pressing 'f'.
+4. Press '0' to go back to initial point. Press "f" to enable/disable the fog for better view.
+5.  Press '9' for a better view of the moving cart. Press "f" to enable/disable the fog. Press 'l' to light up the scene.
+6.  Press '8' for a FPS of the bell. Use w/a/s/d to move around the bell and the arrow keys for different view angles. The bell is made out of 3 parts, its dome, the exterior of the bell and the interior of the bell. Press 'f' to disable/enable fog for a better view. Press 'l' to light up the scene.
+7.  Press '7' for a view of the playground (FPS) use w/a/s/d move around and arrow keys to change the view angle. The monkey bar is there as well as the cart. Press 'f' to disable/enable fog for a better view. Press 'l' to light up the scene if desired.
+
+
+EXTRA: Press 'l' to enable/disable the lighting for better view.
+EXTRA: Press 'u' to stop the movement of the cart. 
+EXTRA: Press 'm' to toggle between textures to be able to better see the objects.
+
+
+Key bindings
+
+****WARNING: CASE SENSITIVE****
+
+
+Key bindings
+  l          Toggles lighting
+  t          Change Textures
+  k          Toggle between projections (Default is set to FPV)
+  m/M        Toggle Textures
+  1/!        Decrease/increase ambient light
+  2/@        Decrease/increase diffuse light
+  3/#        Decrease/increase specular light
+  4/$        Decrease/increase emitted light
+  5/%        Decrease/increase shininess
+  u          Stop/Start the movement of light and cart
+  []         Lower/rise light
+  x          Toggle axes
+  arrows     Change view angle
+  g/h  	     Zoom out and in
+  0          Default view from point A (The starting point for FPV, initial point)
+  9          Better view of the moving cart
+  8          View point of the Bell tower, FPS. 
+  7          Get a good view of the playground and the cart in FPS. 
+  ESC        Exit
+
+  Time taken: Countless hours..
