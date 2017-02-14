@@ -1,17 +1,19 @@
 Nishesh Shukla
 Victorian Era - Graphics Project
 12/06/16
-------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 ABOUT
-------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+Note: User needs to have OpenGL installed. 
 
 This is a layout of a town with a victorian age theme. Stone roads, stone houses, etc. 
 Tools Used: OpenGL, C, Blender, Git. 
-Contributers: Used William Schreuder's base code from his examples in CSCI 5229. 
+Contributers: Used Professor William Schreuder's base code from his examples in CSCI 5229. 
 
-------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 Instructions
-------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 0. Type in 'make' and then './FinalProject' to compile and run.
 1. Use (w/a/s/d) to move around the town and the arrows to change view angles. This allows you to see the fog and as you get closer to an object it becomes clearer and less foggy.
